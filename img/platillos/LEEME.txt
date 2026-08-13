@@ -1,0 +1,11 @@
+FOTOS REALES DE PLATILLOS
+
+Nombre del archivo = id del platillo + .jpg
+  chilaquiles.jpg
+  toast-salmon.jpg
+  x-huevo.jpg
+
+Los ids completos estan en ids-platillos.md (raiz del proyecto).
+Despues de copiar la foto, agrega el id a la lista de data/fotos.js
+
+Formato: 1200 x 1200 px (cuadrada), JPG calidad 80, menos de 250 KB.
