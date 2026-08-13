@@ -1,0 +1,17 @@
+IMAGENES REPRESENTATIVAS POR CATEGORIA
+
+Las 18 imagenes .svg de esta carpeta son PROVISIONALES: fondos de
+color con el nombre de la categoria. Sirven para que el prototipo
+funcione completo desde el primer momento.
+
+Para reemplazarlas por fotos reales:
+  1. Guarda la foto con el mismo nombre pero .jpg
+       desayunos.jpg   toasts.jpg   cerveza-artesanal.jpg
+  2. Borra el .svg correspondiente.
+  3. En assets/js/menu.js, funcion imagen(), cambia la extension
+     .svg por .jpg
+
+Formato: 1200 x 1200 px (cuadrada), JPG calidad 80, menos de 250 KB.
+
+Estas imagenes se usan en el detalle de cualquier platillo que NO
+tenga foto propia declarada en data/fotos.js
